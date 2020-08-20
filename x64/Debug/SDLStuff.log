@@ -1,0 +1,13 @@
+﻿  SDLStuff.cpp
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(187,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(205,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(218,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(232,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(241,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(249,1): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(256,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(257,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(258,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(262,20): warning C4244: 'argument': conversion from 'float' to 'Uint32', possible loss of data
+C:\Users\Adam\source\repos\SDLStuff\SDLStuff\SDLStuff.cpp(285,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+  SDLStuff.vcxproj -> C:\Users\Adam\source\repos\SDLStuff\x64\Debug\SDLStuff.exe
